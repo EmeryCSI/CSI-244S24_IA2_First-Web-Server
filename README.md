@@ -8,7 +8,7 @@
 
 This repository is a part of CSI-244 at Renton Technical College.
 
-## Independent Activity 1 - Intro To Express
+## Independent Activity 2 - Intro To Express
 
 ### Make sure you have completed Guided Activity 2 first
 
