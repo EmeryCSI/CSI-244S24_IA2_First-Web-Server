@@ -3,7 +3,7 @@
 
 <div align="center">  
     <img src="logo.jpg" alt="Logo">
-    <h3 align="center">Independent Activity 1</h3>
+    <h3 align="center">Independent Activity 2</h3>
 </div>
 
 This repository is a part of CSI-244 at Renton Technical College.
@@ -12,7 +12,7 @@ This repository is a part of CSI-244 at Renton Technical College.
 
 ### Make sure you have completed Guided Activity 2 first
 
-Your company has decided that the built-in http module that comes with Node.JS is no longer sufficient to meet the needs of the application. Port your Guided Activity 1 assignment over to use Express instead of the built in http module. You may re-use majority of the code from Guided Activity 1. 
+Your company has decided that the built-in http module that comes with Node.JS is no longer sufficient to meet the needs of the application. Port your Guided Activity 2 assignment over to use Express instead of the built in http module. You may re-use majority of the code from Guided Activity 2 however server.js will require extensive modification.
 
 ### Complete the following:
 
