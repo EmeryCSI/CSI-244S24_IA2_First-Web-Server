@@ -16,10 +16,20 @@ Your company has decided that the built-in http module that comes with Node.JS i
 
 ### Complete the following:
 
-1. Create a new node project with npm
-2. Install Express via NPM
-3. All of the modules and html you created in for Guided Actuvity 2 can be re-used here.
-4. Modify the server.js so that is uses express instead of HTTP.
+1. Clone the repository via either the terminal or GitHub Desktop.
+2. Navigate to the repository folder in the terminal.
+3. Make sure that you are in the correct folder. If you are not then your changes will not be tracked by git
+4. Create a new node project in the repository folder.
+     ```bash
+     npm init -y
+     ```
+5. Install Express via NPM
+     ```bash
+     npm install express
+     ```
+7. All of the modules and html you created in for Guided Activity 2 can be re-used here.
+8. Modify the server.js so that is uses express instead of HTTP.
+9. Test the new application to ensure that it is working.
 
 ### Testing Your Server
 
@@ -35,18 +45,14 @@ Your company has decided that the built-in http module that comes with Node.JS i
    - Go to `http://localhost:3000/system-info` for system info.
    - Navigate to `http://localhost:3000/log-visit` to log your visit.
    - Check `http://localhost:3000/show-log` to view the log.
+   - Verify that the userform functionality is working.
 
 3. **Research the req.query property:**
    - [req.query ](https://www.geeksforgeeks.org/express-js-req-query-property/)
    - Create an endpoint at `/query` that displays returns the query object.
    - Pass at least two values to the query object from the url. Refer to the geeksforgeeks article for help.
-  
-4. **Research the req.get property:**
-   - [res.get](https://www.geeksforgeeks.org/express-js-req-get-function/)
-   - Create an endpoint at `/get` that displays returns the `Content-Type` property.
 
-
-Create a new commit with the message Independent Activity 1 Complete and push the changes to GitHub
+Create a new commit with the message Independent Activity 2 Complete and push the changes to GitHub
 
 
 If you have any questions about this assignment please reach out to myself or our TA for this course.
